@@ -50,7 +50,3 @@ Customize the behavior of notifications by modifying the blueprint logic. You ca
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please open an issue or submit a pull request. Make sure to follow the project's coding standards and guidelines.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
