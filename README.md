@@ -1,6 +1,6 @@
-# Notification System from S.T.A.L.K.E.R Call of Pripyat
+# Notification System from S.T.A.L.K.E.R
 
-Welcome to the S.T.A.L.K.E.R Call of Pripyat Notification System project! This repository contains a custom notification system inspired by the S.T.A.L.K.E.R Call of Pripyat game, implemented in Unreal Engine 4 (UE4) with a stunning 4K graphical user interface (GUI).
+Welcome to the S.T.A.L.K.E.R Notification System project! This repository contains a custom notification system inspired by the S.T.A.L.K.E.R, implemented in Unreal Engine 4 (UE4) with a stunning 4K graphical user interface (GUI).
 
 ![Message](message.svg)
 
@@ -15,18 +15,18 @@ Welcome to the S.T.A.L.K.E.R Call of Pripyat Notification System project! This r
 
 ## Introduction
 
-This project aims to recreate the iconic notification system from S.T.A.L.K.E.R Call of Pripyat in Unreal Engine 4. It features high-resolution 4K graphics to provide a modern and visually appealing user experience. The notification system can be integrated into any UE4 project, enhancing the way notifications are presented to the player.
+This project aims to recreate the iconic notification system from S.T.A.L.K.E.R in Unreal Engine 4. It features high-resolution 4K graphics to provide a modern and visually appealing user experience. The notification system can be integrated into any UE4 project, enhancing the way notifications are presented to the player.
 
 ## Features
 
 - **High-Resolution 4K GUI**: Enjoy crisp and clear notifications with 4K graphics.
 - **Customizable Notifications**: Easily customize the look, feel, and behavior of notifications to suit your project's needs.
 - **Integration with UE4**: Seamless integration with Unreal Engine 4 for easy use in your game.
-- **Inspired by S.T.A.L.K.E.R**: Authentic design inspired by the S.T.A.L.K.E.R Call of Pripyat game.
+- **Inspired by S.T.A.L.K.E.R**: Authentic design inspired by the S.T.A.L.K.E.R.
 
 ## Installation
 
-To use the S.T.A.L.K.E.R Call of Pripyat Notification System in your Unreal Engine 4 project, follow these steps:
+To use the S.T.A.L.K.E.R Notification System in your Unreal Engine 4 project, follow these steps:
 
 1. **Clone the Repository**:
     
