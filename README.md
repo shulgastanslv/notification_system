@@ -31,7 +31,7 @@ To use the S.T.A.L.K.E.R Call of Pripyat Notification System in your Unreal Engi
 1. **Clone the Repository**:
     
     ```
-    clone https://github.com/shulgastanslv/notification_system.git
+    git clone https://github.com/shulgastanslv/notification_system.git
     ```
     
 2. **Copy Files to Your Project**
