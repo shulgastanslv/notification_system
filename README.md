@@ -1,4 +1,4 @@
-# S.T.A.L.K.E.R Call of Pripyat Notification System in Unreal Engine 4
+# Notification System from S.T.A.L.K.E.R Call of Pripyat
 
 Welcome to the S.T.A.L.K.E.R Call of Pripyat Notification System project! This repository contains a custom notification system inspired by the S.T.A.L.K.E.R Call of Pripyat game, implemented in Unreal Engine 4 (UE4) with a stunning 4K graphical user interface (GUI).
 
