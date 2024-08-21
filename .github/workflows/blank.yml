@@ -13,7 +13,15 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      
+
+      - name: Set environment var 
+        shell: pwsh
+        run: $env:DXSDK_DIR = 'C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)'
+
+      - name: Show environment variable in PowerShell
+        shell: pwsh
+        run: echo $env:DXSDK_DIR
+
       - name: Set environment variable in PowerShell
         shell: pwsh
         run: |
