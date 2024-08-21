@@ -13,12 +13,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+      
+      - name: Set environment variable in PowerShell
+        shell: pwsh
+        run: |
+          $env:MY_VARIABLE = 'some_value'
+          echo $env:MY_VARIABLE
 
       - name: Run a one-line script
         run: echo Влад Волков великий разработчик
-
-      - name: Set environment variable
-        run: echo "MY_VARIABLE=some_value" >> $GITHUB_ENV
-
-      - name: Print variable
-        run: echo $MY_VARIABLE
